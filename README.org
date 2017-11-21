@@ -1,0 +1,15 @@
+* [[Issues]] & [[PRs]]
+- #1 README.org
+- #2 Dockerfile
+  - from spacemacs-tmux
+  - [ ] conda
+  - [ ] odo
+  - [ ] jinja2
+    - [ ] j2
+  - [ ] AWS cli & boto
+  - [ ] gcloud cli
+- #3 tangle.sh
+  - https://github.com/thi-ng/geom/blob/master/tangle.sh
+- #4 Makefile
+- #5 k8s.yaml.j2
+  - kubespawn jupyterhub ssh prow
