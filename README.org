@@ -12,4 +12,8 @@
   - https://github.com/thi-ng/geom/blob/master/tangle.sh
 - #4 Makefile
 - #5 k8s.yaml.j2
-  - kubespawn jupyterhub ssh prow
+  - [[https://github.com/jupyterhub][kubespawner]]
+  - ssh
+  - prow
+  
+
